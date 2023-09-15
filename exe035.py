@@ -1,4 +1,4 @@
-'''Faça um programa que leia o comprimento de trÊs retas e diga ao usuario se elas
+'''Faça um programa que leia o comprimento de três retas e diga ao usuario se elas
 podem ou não ser um triângulo'''
 print('-='*20)
 print('Analisador de Triângulo')
